@@ -1,0 +1,65 @@
+#+TITLE: compelling-conversations
+* reject
+:PROPERTIES:
+:ANKI_DECK: CC-25
+:ANKI_NOTE_TYPE: english
+:ANKI_NOTE_ID: 1566757311193
+:END:
+** Front
+reject
+** Back
+*** 读音
+/rɪ'dʒekt/
+*** 意义
+1. vt. 拒绝；抵制；丢弃；排斥
+2. n. 被弃之物或人；次品
+*** 词组
+**reject an appeal** 驳回上诉
+*** 例句
+1. reject an offer of help
+
+   拒绝别人提供的帮助
+2. reject poorly written articles
+
+   舍去写得拙劣的文章
+3. He rejected the old records.
+
+   他丢弃了那些旧唱片。
+4. they rejected negotiations out of hand.
+
+   他们当即拒绝谈判。
+* chase
+:PROPERTIES:
+:ANKI_DECK: CC-25
+:ANKI_NOTE_TYPE: english
+:ANKI_NOTE_ID: 1566757417167
+:END:
+** Front
+chase
+** Back
+*** 读音
+/tʃeɪs/
+*** 意义
+1. vt. 追逐；追捕；试图赢得；雕镂
+2. vi. 追赶；追逐；奔跑
+3. n. 追逐；追赶；追击
+*** 词组
+chase away
+
+赶走，驱逐
+
+chase bank
+
+大通银行
+
+chase the rainbows
+
+做白日梦；追逐不可能实现的梦想
+
+cut to the chase
+
+开门见山；提到关键问题；转入（或切入）正题
+
+chasing girls
+
+追女孩
