@@ -4,6 +4,7 @@
 :ANKI_DECK: CC-25
 :ANKI_NOTE_TYPE: english
 :ANKI_NOTE_ID: 1566757311193
+:ANKI_TAGS: language english
 :END:
 ** Front
 reject
@@ -33,6 +34,7 @@ reject
 :ANKI_DECK: CC-25
 :ANKI_NOTE_TYPE: english
 :ANKI_NOTE_ID: 1566757417167
+:ANKI_TAGS: language english
 :END:
 ** Front
 chase
@@ -44,22 +46,296 @@ chase
 2. vi. 追赶；追逐；奔跑
 3. n. 追逐；追赶；追击
 *** 词组
-chase away
++ chase away
 
-赶走，驱逐
+  赶走，驱逐
++ chase bank
 
-chase bank
+  大通银行
++ chase the rainbows
 
-大通银行
+  做白日梦；追逐不可能实现的梦想
++ cut to the chase
 
-chase the rainbows
+  开门见山；提到关键问题；转入（或切入）正题
++ chasing girls
 
-做白日梦；追逐不可能实现的梦想
+  追女孩
+* stretch
+:PROPERTIES:
+:ANKI_DECK: CC-25
+:ANKI_NOTE_TYPE: english
+:ANKI_TAGS: language english
+:ANKI_NOTE_ID: 1566791663949
+:END:
+** Front
+stretch
+** Back
+*** 读音
+ /stretʃ/
+*** 意义
++ vt. 伸展,张开
++ vi. 伸展
++ adj. 可伸缩的
++ n. 伸展，延伸
+*** 词组
++ That’s quite a stretch.
 
-cut to the chase
+  那真是太夸张了
++ at a stretch
 
-开门见山；提到关键问题；转入（或切入）正题
+  adv. 一口气地
++ at full stretch
 
-chasing girls
+  非常紧张；竭尽全力
++ give a stretch
 
-追女孩
+  伸懒腰
++ stretch out
+
+  伸手
+*** 常用例句
++ It stretches and expands, it stretches and expands.
+
+  拉伸再扩展，拉伸再扩展。
++ Right. You can stretch out more. So you can stretch out, yeah.
+
+  对。可以伸展身体。没错，可以伸直身体躺在浴缸里。（结合上下文）
++ You have to stretch, you have to stretch.
+
+  你要伸展 那就伸展呗。
++ Then he stood up, stretching his arms.
+
+  然后他站了起来，伸展了一下胳膊。
++ But I'm really stretched thin these days.
+
+  但最近我真的忙的不可开交。
++ You try and stretch as an actor
+
+  作为演员你想拓展戏路
++ Some stretches, and the shoulder feels great.
+
+  做了点伸展运动 肩膀感觉好多了。
++ stretch the elastic.
+
+  把松紧带拉长
++ a stretch of authority
+
+  超越权限
++ by a stretch of language
+
+  用牵强附会的语言
++ a black stretch limo.
+
+  一辆黑色加长轿车。
++ stretch sb. on the ground
+
+  把某人打翻在地
++ a stretch of open country
+
+  一片旷野
++ a lonely stretch of country lane.
+
+  人迹罕至的乡村小路
+* carnation
+:PROPERTIES:
+:ANKI_DECK: CC-25
+:ANKI_NOTE_TYPE: english
+:ANKI_TAGS: language english
+:ANKI_FAILURE_REASON: Note creation failed for unknown reason
+:END:
+** Front
+carnation
+** Back
+*** 读音
+/kɑː'neɪʃ(ə)n/
+*** 意义
+n. 麝香石竹;康乃馨
+*** 词组
++ carnation latent virus
+
+康乃馨潜伏病毒；香石竹潜病毒
+*** 常用例句
++ What an asshole. -Not flowers, carnations. -What's wrong with carnations?
+
+  不是花，是康乃馨 -康乃馨有什么不好
++ In our country, a bride always walks with carnations.
+
+  在我们国家 新娘通常捧康乃馨。
++ And don't even think of getting me carnations again.
+
+  别以为几束康乃馨就能再打发我。
++ His words were met with cheers and a sea of upraised carnations.
+  他的发言受到人们的欢呼，到处是一片康乃馨的海洋。
+
++ He was wearing a carnation in his lapel.
+
+  他的翻领里别着一枝康乃馨。
+* contrary
+:PROPERTIES:
+:ANKI_DECK: CC-25
+:ANKI_NOTE_TYPE: english
+:ANKI_TAGS: language english
+:ANKI_FAILURE_REASON: Note creation failed for unknown reason
+:END:
+** Front
+contrary
+** Back
+*** 读音
+/'kɒntrərɪ/
+*** 意义
++ adj. 相反的, 相违的
++ n. 相反, 反面, 对立面
+
+
+*** 词组
++ be contrary to
+
+与…相反；违反
++ contrary wind
+
+逆风
++ on the contrary
+
+(与此)相反, 正相反
+*** 常用例句
++ I can be as contrary as I choose.
+
+女人心本来就是海底针。
++ a contrary wind.
+
+逆风
++ Cruelty is the contrary of kindness.
+
+残忍是仁慈的反面。
++ be contrary to one's expectation
+
+出乎意料地
++ act contrary to nature
+
+违反自然
++ The result is contrary to expectation.
+
+结果跟预料恰好相反
++ Hot and cold are contrary terms.
+
+热与冷是相反的词语。
++ The boy was swimming in a direction contrary to the current.
+
+那男孩逆流游去。
++ On the contrary, he refuses ever to leave.
+
+恰恰相反，他一直不肯离开那儿。
+* disaster
+:PROPERTIES:
+:ANKI_DECK: CC-25
+:ANKI_NOTE_TYPE: english
+:ANKI_TAGS: language english
+:ANKI_FAILURE_REASON: Note creation failed for unknown reason
+:END:
+** Front
+disaster
+** Back
+*** 读音
+/dɪ'zɑːstə/
+*** 意义
+n. 不幸；灾难，灾祸
+*** 词组
++ disaster recovery
+
+容灾
++ disaster relief
+
+赈灾；灾难援助
++ disaster area
+
+灾区
++ meteorological disaster
+
+气象灾害
++ n atural disaster
+
+自然灾难，自然灾害
+*** 常用例句
++ the disaster was God's will.
+
+这场灾难是上帝的旨意。
++ disasters are the wages of sin.
+
+灾难是罪恶的报应。
++ The disaster was seen as a judgement from on high.
+
+这一灾难被视为上天的惩罚。
++ The snow disaster cut off the traffic.
+
+雪灾阻断了交通。
++ Almost immediately the disasters started rolling in.
+
+紧接其后灾难就来了。
+* concur
+:PROPERTIES:
+:ANKI_DECK: CC-25
+:ANKI_NOTE_TYPE: english
+:ANKI_TAGS: language english
+:ANKI_NOTE_ID: 1566800725153
+:END:
+** Front
+concur
+** Back
+*** 读音
+/kən'kɜː/
+*** 意义
+vi. 一致；同意；互助
+==时 态: concurred, concurring, concurs ==
+*** 词组
++ concur in
+v. 赞成
+
++ concur with
+v. 同意
+*** 常用例句
++ we strongly concur with this recommendation.
+
+我们强烈赞成此建议。
++ Everything concurred to produce a successful result.
+
+同时发生的事情能产生一个成功结果。
++ This summer two weeks of rain concurred with our vacation.
+
+今夏我们两个星期的假期都下雨。
+* dissent
+:PROPERTIES:
+:ANKI_DECK: CC-25
+:ANKI_NOTE_TYPE: english
+:ANKI_TAGS: language english
+:ANKI_NOTE_ID: 1566800726842
+:END:
+** Front
+dissent
+** Back
+*** 读音
+/dɪ'sent/
+*** 意义
++ n. 意见的分歧
++ vi. 不同意, 持异议
+
+==时 态: dissented, dissenting, dissents ==
+==副 词: dissentingly==
+*** 词组
++ dissent from
+
+不赞同；与…意见不同
+*** 常用例句
++ a dissenting voice.
+
+不同的声音。
+
++ *[as adj. dissenting]* there were only a couple of dissenting voices.
+只有几种不同的声音。
+
++ When the matter was put to a vote, 29 agreed and 4 dissented.
+
+这件事诉诸于表决, 29票赞成，四票反对。
++ The three justices dissented from the supreme Court's decision.
+
+那三位法官不同意最高法庭的决定。
