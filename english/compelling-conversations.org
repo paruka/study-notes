@@ -391,3 +391,183 @@ drift
 + I was drifting off to sleep.
 
   我不知不觉睡着了。
+* simplistic
+:PROPERTIES:
+:ANKI_DECK: CC-25
+:ANKI_NOTE_TYPE: english
+:ANKI_TAGS: language english
+:ANKI_NOTE_ID: 1566954823820
+:END:
+** Front
+simplistic
+** Back
+*** 读音
+/sɪm'plɪstɪk/
+*** 意义
+adj. 过分单纯化的
+*** 常用例句
+1. simplistic solutions.
+
+   过分简单化的解决方案。
+2. That's a very simplistic view of it.
+
+   那是对它过分单纯化的看法。
+3. And even this, however, is a very simplistic dichotomy.
+
+   然而，即使这只是很简单的二分法。
+4. Other scholars say that this view is too simplistic.
+
+   其他学者称这样的评论过于简单化了。
+5. The ones that, just really simplistic ones, things like Tetris
+
+   就是那种很简单的游戏，比如俄罗斯方块这种游戏。
+* assumption
+:PROPERTIES:
+:ANKI_DECK: CC-25
+:ANKI_NOTE_TYPE: english
+:ANKI_TAGS: language english
+:END:
+** Front
+assumption
+** Back
+*** 读音
+/ə'sʌm(p)ʃ(ə)n/
+*** 意义
+n. 假定, 臆断
+*** 词组
+1. assumption of control
+
+   接管
+2. on the assumption that
+
+   假设
+3. assumption of duty
+
+   任职
+4. assumption of risk
+
+   承担风险
+*** 常用例句
+1. assumption of an obligation.
+
+   承担一项义务
+2. assumption of a false theory.
+
+   认定一个错误的理论
+3. assumption of command.
+
+   夺取控制权
+4. Your assumption is wrong.
+
+   你的假定是错的。
+5. the assumption was unsupported by evidence.
+
+   该设想并无证据支撑。
+6. This assumption is wrong or greatly exaggerated.
+
+   这种假设不是错了，就是太夸张
+7. How dare you make such an assumption!
+
+   你好大胆 敢胡乱猜测！
+* deny
+:PROPERTIES:
+:ANKI_DECK: CC-25
+:ANKI_NOTE_TYPE: english
+:ANKI_TAGS: language english
+:END:
+** Front
+deny
+** Back
+*** 读音
+/dɪ'naɪ/
+*** 意义
+1. vt. 否认知情
+2. 拒绝
+
+=时 态: denied, denying, denies=
+*** 词组
+1. deny oneself
+
+   节制；戒除
+2. deny someone something
+
+   拒绝给予
+3. deny the ball
+
+   绕前防守；根本不让某人拿球
+*** 常用例句
+1. deny sb. justice
+
+   对某人不公平
+2. there was no point in denying the truth.
+
+   否认真相是没有用的。
+3. There is no denying his tale.
+
+   他说的话是无可否认的。
+4. He had the hardihood to deny the fact.
+
+   他胆敢否认事实。
+5. Okay, here he comes. Deny, deny, people.
+
+   他来了 大家不要承认啊。
+6. To deny one's past is to deny one's self.
+
+   否认过去就是否认自我。
+7. She said: When you deny childhood, you deny life.
+
+   “当你放弃童年，你就放弃了生命。”
+
+8. It was difficult, I'll not deny it.
+
+   的确很难 这我不否认。
+* consequence
+:PROPERTIES:
+:ANKI_DECK: CC-25
+:ANKI_NOTE_TYPE: english
+:ANKI_TAGS: language english
+:END:
+** Front
+consequence
+** Back
+*** 读音
+/'kɒnsɪkw(ə)ns/
+*** 意义
+1. n. 结果, 后果
+2. 重要(性), 重大
+*** 词组
+1. as a consequence
+
+   因此，结果
+2. as a consequence of
+
+   由于…的结果；因此
+3. in consequence of
+
+   adv. 由于的…缘故
+*** 常用例句
+1. deny sb. justice
+
+   对某人不公平
+2. there was no point in denying the truth.
+
+   否认真相是没有用的。
+3. There is no denying his tale.
+
+   他说的话是无可否认的。
+4. He had the hardihood to deny the fact.
+
+   他胆敢否认事实。
+5. Okay, here he comes. Deny, deny, people.
+
+   他来了 大家不要承认啊。
+6. To deny one's past is to deny one's self.
+
+   否认过去就是否认自我。
+7. She said: When you deny childhood, you deny life.
+
+   “当你放弃童年，你就放弃了生命。”
+
+8. It was difficult, I'll not deny it.
+
+   的确很难 这我不否认。

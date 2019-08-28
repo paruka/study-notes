@@ -1,0 +1,46 @@
+#+TITLE: git
+* stash pop file exists
+:PROPERTIES:
+:ANKI_DECK: git
+:ANKI_NOTE_TYPE: english
+:ANKI_TAGS: git
+:ANKI_NOTE_ID: 1566943728621
+:END:
+** Front
+*** How to retrieve untracked files with git stash pop
+You stashed some untracked files using
+#+BEGIN_SRC bash
+git stash save -u 'some comments here'
+#+END_SRC
+
+After some operations, you want to retrieve stashed files
+#+BEGIN_SRC bash
+git stash pop
+#+END_SRC
+
+Then, you will probably got this error
+#+BEGIN_SRC bash
+file-name.org already exists, no check
+#+END_SRC
+** Back
+Find the stashed commit:
+#+BEGIN_SRC bash
+git log --graph --all --decorate --oneline
+#+END_SRC
+
+Check it out:
+#+BEGIN_SRC bash
+git checkout <sha>
+#+END_SRC
+
+Reset parent:
+#+BEGIN_SRC bash
+git reset HEAD~1
+#+END_SRC
+
+Create a clean stash:
+#+BEGIN_SRC bash
+git stash -u
+#+END_SRC
+
+Now, you can checkout =master= and apply the stash.

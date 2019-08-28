@@ -1,0 +1,48 @@
+#+TITLE: cpp
+* structured bindings
+:PROPERTIES:
+:ANKI_DECK: cpp
+:ANKI_NOTE_TYPE: english
+:END:
+** Front
+结构化绑定中的变量永远都为引用，即便它没有引用标识：
+#+BEGIN_SRC c++
+pair<int, string> func();
+auto [ i, s ] = func();
+use(s, ++i);
+#+END_SRC
+上例中， *i* 和 *s* 永远都是 “引用类型” ，但他们的类型并非真正的引用
+（ =decltype= 返回的并非引用），编译器生成的代码大致如下：
+#+BEGIN_SRC c++
+pair<int, string> func();
+
+auto __tmp = func();
+auto & i = get<0>(__tmp);
+auto & s = get<1>(__tmp);
+
+use(s, ++i);
+#+END_SRC
+因此， =auto [i, s ] = func()= 即便没有声明为 *&* ，它们仍然表现出引用的行为：
+#+BEGIN_SRC c++
+#include <string>
+#include <iostream>
+
+struct Foo
+{
+   int x = 0;
+   std::string str = "world";
+   ~Foo() { std::cout << str << std::endl; }
+};
+
+int main()
+{
+    auto f = Foo();
+    {
+        auto [ i, s ] = f; // auto __tmp = Foo();
+        std::cout << "hello ";
+        s = "structured bindings"; // __tmp.str = ...
+    }
+}
+#+END_SRC
+
+** Back
