@@ -571,3 +571,60 @@ consequence
 8. It was difficult, I'll not deny it.
 
    的确很难 这我不否认。
+* dye
+:PROPERTIES:
+:ANKI_DECK: CC-26
+:ANKI_NOTE_TYPE: english
+:ANKI_TAGS: language english
+:END:
+** Front
+dye
+** Back
+*** 读音
+/daɪ/
+*** 意义
+1. n. 染料；染色
+2. vt. 染；把…染上颜色
+3. vi. 被染色
+
+=时 态: dyed, dyeing, dyes=
+
+=名 词: dyer=
+
+*多指使用染料改变物体的颜色，如染织品或头发等。*
+*** 词组
+1. tie-dye T-shirts.
+
+   扎染T恤衫。
+2. hairdye
+
+   染发剂
+
+3. dye hair
+
+   染发
+*** 常用例句
+* surgery
+:PROPERTIES:
+:ANKI_DECK: CC-26
+:ANKI_NOTE_TYPE: english
+:ANKI_TAGS: language english
+:END:
+** Front
+surgery
+** Back
+*** 读音
+/'sɜːdʒ(ə)rɪ/
+*** 意义
+n. 外科；外科手术；手术室；诊疗室
+*** 词组
+1. plastic surgery
+
+   整形外科
+2. What time does surgery finish?
+
+   门诊什么时间结束?
+3. You thought our maid had plastic surgery?
+
+   你觉得我们家的女佣整过容？
+*** 常用例句
